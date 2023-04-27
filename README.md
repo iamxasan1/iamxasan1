@@ -11,8 +11,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamxasan1&show_icons=true&theme=synthwave" alt="iamxasan1 :: Profile Stats" /></p>
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.sharipovXasan.com/in/leverow/">Azamjon Bakhriddinov</a>
-- Telegram: <a href = "https://t.me/iamxasan1">Leverow</a>
-- Website: <a href = "https://iamxasan1.uz">Leverow.uz</a>
+- LinkedIn: <a href = "https://www.sharipovXasan.com/in/leverow/">Sharipov Xasan</a>
+- Telegram: <a href = "https://t.me/iamxasan1">iamxasan1</a>
+- Website: <a href = "https://iamxasan1.uz">iamxasan1.uz</a>
 <br>
 
